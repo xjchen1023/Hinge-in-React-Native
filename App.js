@@ -92,7 +92,7 @@ export default function App() {
               source={Icons.messages.light}
             />
             <Text style={styles.bottomBarText}>
-              Matches
+              DMs
             </Text>
           </View>
       </View>
